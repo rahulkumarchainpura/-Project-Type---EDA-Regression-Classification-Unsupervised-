@@ -1,0 +1,2 @@
+# -Project-Type---EDA-Regression-Classification-Unsupervised-
+Paisabazaar is a financial services company that assists customers in finding and applying for various banking and credit products. An integral part of their service is assessing the creditworthiness of individuals, which is crucial for both loan approval and risk management. The credit score of a person is a significant metric used by financial in
